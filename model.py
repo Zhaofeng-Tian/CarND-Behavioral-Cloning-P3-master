@@ -15,7 +15,7 @@ print (lines)
 print ("how many lines: ", len(lines))
 images = []
 measurements = []
-c = 0.20 # Correction constant for right and left images
+c = 0.23 # Correction constant for right and left images
 
 # Get images 
 for line in lines[1:]:
